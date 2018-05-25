@@ -1,5 +1,5 @@
 {
-    "name": "multi-hashing-bbscoin",
+    "name": "multi-hashing-elyacoin",
     "version": "1.0.0",
     "main": "multihashing",
     "author": {
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/bbscoin/multi-hashing-bbscoin.git"
+        "url": "https://github.com/elyacoin/multi-hashing-elyacoin.git"
     },
     "dependencies": {
         "bindings": "*"
